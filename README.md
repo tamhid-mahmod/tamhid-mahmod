@@ -9,6 +9,8 @@
 
 Aspiring software engineer with a strong passion for coding and problem-solving. Currently pursuing a degree in computer science and actively seeking opportunities to develop my skills and gain practical experience. Proficient in Java, Python, and C++, and interested in exploring new programming languages and technologies. Enthusiastic about learning from experienced professionals and contributing to impactful projects. Connect with me to discuss potential opportunities or to exchange ideas!
 
+***
+
 ### 🛠 &nbsp;Tech Stack
 
 <img align="right" src="https://raw.githubusercontent.com/tamhid-mahmod/tamhid-mahmod/main/assets/coder.gif" />
@@ -38,4 +40,46 @@ Aspiring software engineer with a strong passion for coding and problem-solving.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 
+***
 
+### ♨️ &nbsp;DSA Analytics
+
+<p align="center"> 
+<img src="https://leetcard.jacoblin.cool/tamhidmahmod?theme=dark&font=Noto%20Sans&ext=contest" alt="Leetcode stats" height="350"/>
+</p>
+         
+***
+
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <table style="width:100%">
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=tamhid-mahmod&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamhid-mahmod&theme=dark&hide_border=true&layout=compact"></td>
+  </tr>
+</table>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tamhid-mahmod&theme=dark&hide_border=false&layout=compact" />
+</details>
+
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> macOS, Windows</li>
+	    <li><b>Laptop: </b> Macbook M1 Pro, HP i5</li>
+  	    <li><b>Browser: </b> Chrome Web Browser</li>
+	    <li><b>Terminal: </b> ZSH, Git Bash, CMD</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Linkedin</li>
+	</ul>	
+</details>
