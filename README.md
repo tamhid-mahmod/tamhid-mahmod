@@ -11,6 +11,8 @@ Aspiring software engineer with a strong passion for coding and problem-solving.
 
 ### 🛠 &nbsp;Tech Stack
 
+<img align="right" src="https://raw.githubusercontent.com/tamhid-mahmod/tamhid-mahmod/main/assets/coder.gif" />
+
 #### Front-End
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
